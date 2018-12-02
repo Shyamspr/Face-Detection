@@ -1,2 +1,2 @@
-# face_recognition
+# face recognition
 Face Recognizer using cascades 
