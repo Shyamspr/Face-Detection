@@ -2,7 +2,7 @@
 
 Face Recognizer using openCV haarcascades
 
-A Haar Cascade is basically a classifier which is used to detect particular objects from the source. The haarcascade_frontalface_default.xml is a haar cascade designed by OpenCV to detect the frontal face. This haar cascade is available on github.
+A Haar Cascade is basically a classifier which is used to detect particular objects from the source. These haar cascade designed by OpenCV to detect the frontal faces. These are available on github.
 
 # Sample Ouput Image
 
