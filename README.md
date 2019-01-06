@@ -1,4 +1,4 @@
-# Face Recognition [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/face_recognition/blob/master/LICENSE)
+# Face Detection [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/face_recognition/blob/master/LICENSE)
 
 Face Recognizer using openCV haarcascades
 
